@@ -55,7 +55,7 @@ The layout is responsive and optimized for viewing on different devices (desktop
 ## 🚀 Getting Started:
 
     * Open in git repository:
-    https://github.com/Harshal22Rangare/HexSoftwares_MY-Personal-Portfolio  
+   https://github.com/Harshal22Rangare/HexSoftwares_Resume-Website-Project
     * Open in VS Code:
     Open the folder and launch Live Server or open index.html in your browser.
     
@@ -71,3 +71,7 @@ The layout is responsive and optimized for viewing on different devices (desktop
 
                 It can be further improved by adding interactivity using JavaScript or hosting it on GitHub Pages or any web server.
 ## OUTPUT:
+
+<img width="1129" height="963" alt="Image" src="https://github.com/user-attachments/assets/40cde0f0-581e-476d-bf04-5bfb27c869ff" />
+
+<img width="1051" height="989" alt="Image" src="https://github.com/user-attachments/assets/828af1ea-4483-4a9c-b486-e3eb830a53e6" />
