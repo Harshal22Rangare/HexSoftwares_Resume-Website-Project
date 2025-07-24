@@ -72,6 +72,6 @@ The layout is responsive and optimized for viewing on different devices (desktop
                 It can be further improved by adding interactivity using JavaScript or hosting it on GitHub Pages or any web server.
 ## OUTPUT:
 
-<img width="1129" height="963" alt="Image" src="https://github.com/user-attachments/assets/40cde0f0-581e-476d-bf04-5bfb27c869ff" />
+<img width="1089" height="953" alt="Image" src="https://github.com/user-attachments/assets/2d36db15-5d85-457d-b229-e8fd70465089" />
 
-<img width="1051" height="989" alt="Image" src="https://github.com/user-attachments/assets/828af1ea-4483-4a9c-b486-e3eb830a53e6" />
+<img width="1018" height="995" alt="Image" src="https://github.com/user-attachments/assets/7107d872-f23b-474a-92cb-44419bfacd55" />
